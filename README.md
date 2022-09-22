@@ -7,3 +7,6 @@ Made this as a tribute to one of my favorite rides at Disneyland's California Ad
 The WebVR experience itself lets you move freely throughout the galaxy using the arrow key pad. When a planet is encountered a label will appear telling you the name of the planet you just encountered. 
 
 Included in this repository is the source html and Javascript code in the galaxy.html file and some clips of it rendered to get an idea of how it looks rendered in full hyperspace glory. 
+
+
+![Soarin](https://user-images.githubusercontent.com/99679318/191797190-0afbc95f-2072-42e3-8679-6d1de2ad50ea.png)
